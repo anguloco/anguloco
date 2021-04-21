@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on freelance Projects
+- 🤔 I’m currently learning TypeScript ⚡ ...
+- 💬 Drop me a message ...
+- 📫 How to reach me: Angulo.co 
+- 😄 Fun fact:  Llamas are smart...
 <!--
 **anguloco/anguloco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
