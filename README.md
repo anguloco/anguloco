@@ -1,5 +1,5 @@
-###
-Be curious. Read widely. Try new things. — aaronsw👋
+
+<h3> Be curious. Read widely. Try new things. — aarons</h3>
 
 
 - 🤔 I’m currently learning ways to improve my TypeScript⚡ ...
