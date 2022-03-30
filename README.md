@@ -1,6 +1,6 @@
 
 <h3> Be curious. Read widely. Try new things. — aaronsw</h3>
-
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
 - 🤔 I’m currently learning ways to improve my TypeScript⚡ ...
 - 💬 Drop me a message ...
