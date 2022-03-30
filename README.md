@@ -1,7 +1,8 @@
-### Hi there 👋
+###
+Be curious. Read widely. Try new things. — aaronsw👋
 
-- 🔭 I’m currently working on freelance Projects
-- 🤔 I’m currently learning TypeScript ⚡ ...
+
+- 🤔 I’m currently learning ways to improve my TypeScript⚡ ...
 - 💬 Drop me a message ...
 - 📫 How to reach me: https://Angulo.co 
 - 😄 Fun fact: Llamas are the camel's hippie cousins.
